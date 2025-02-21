@@ -1,2 +1,2 @@
 - [BORDER WALLETS: Storing Bitcoin In Your Brain](https://www.youtube.com/watch?v=wHQrvCGVkTw)
-- - [Com’è Jade Original all’interno](https://drive.proton.me/urls/8ESTA73R1C#mkGhpw4DSfPQ)
+- [Com’è Jade Original all’interno](https://drive.proton.me/urls/8ESTA73R1C#mkGhpw4DSfPQ)
