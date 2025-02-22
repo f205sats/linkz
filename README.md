@@ -7,4 +7,4 @@ Non so usare Github, non so cosa farmene di fork e PR.
 Fai quel che ti pare con questo repo, ma sappi che ho disabilitto le notifiche.
 Se proprio devi, ma non è insdispensabile, mi trovi su #Nostr: laura@cosanostr.com
 
-Buona vita a tutti 🌻
+Buona vita e benvenuto nel mio #Plan ₿ 🌻
