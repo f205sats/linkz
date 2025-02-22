@@ -1,4 +1,5 @@
 # linkz
+![cover](img/cover.jpg)
 Raccolta di link e risorse *personali* usate per approfondire e studiare.
 Niente di trascendentale eh, ne ho solo approfittato per giochicchiare con le pagine di Github.
 
